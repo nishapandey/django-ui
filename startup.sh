@@ -17,9 +17,9 @@ python crud/manage.py runserver
 #python manage.py runserver to start the development server
 #python manage.py createsuperuser to create admin user
 #python manage.py createsuperuser to create admin user
-# in django to create a new webpage its a 3 step process:   
-# 1. template file/ html page
-# 2. url
-# 3. view
+# in django to create a new webpage its a 3 step process:   MVT
+# template file/ html page 
+# view and update url
+# model
 
 
