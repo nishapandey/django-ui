@@ -15,8 +15,6 @@ python crud/manage.py runserver
 #python manage.py migrate to apply the migrations to the database
 #python manage.py createsuperuser to create admin user
 #python manage.py runserver to start the development server
-#python manage.py createsuperuser to create admin user
-#python manage.py createsuperuser to create admin user
 # in django to create a new webpage its a 3 step process:   MVT
 # template file/ html page 
 # view and update url
